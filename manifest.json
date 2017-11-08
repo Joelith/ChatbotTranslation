@@ -1,0 +1,8 @@
+{
+  "runtime":{
+    "majorVersion":"2.4.1"
+  },
+  "command": "ruby server.rb",
+  "release": {},
+  "notes": "Translation middleware for Visa chatbot"
+}
